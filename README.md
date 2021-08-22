@@ -1,5 +1,5 @@
 # Mean Filtering and Edge Detection for Video
-Mean Filtering and Edge Detection for Video from Scratch
+Arithmetic Mean Filtering and Edge Detection for Video from Scratch
 
 The Result of the Mean Filter apply is shown on the following image frame
 
